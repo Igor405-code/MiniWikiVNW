@@ -1,0 +1,53 @@
+* {
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+main {
+  margin-left: 30px;
+  flex: 1;
+}
+
+body {
+  background-color: aquamarine;
+  font-family: "Grey Qo", cursive;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+img {
+  margin-top: px;
+  margin-bottom: 35px;
+  width: 210px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+.secundaria {
+  display: block;
+  width: auto;
+  background-color: pink;
+  color: black;
+  padding: 4px 68px 4px 11px;
+  margin: 0px 0px 19px -4px;
+}
+
+p {
+  margin-bottom: 10px;
+}
+
+footer {
+  background-color: grey;
+  color: black;
+  padding: 4px 68px 4px 11px;
+  margin: 16px 0px 0px 0px;
+}
+
+article {
+  text-align: center;
+}/*# sourceMappingURL=style.css.map */
